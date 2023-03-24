@@ -13,6 +13,7 @@
     "@babel/preset-env": "^7.20.2",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
-    "gulp-stylelint": "^13.0.0"
+    "gulp-stylelint": "^13.0.0",
+    "htmlmin": "^0.0.7"
   }
 }
